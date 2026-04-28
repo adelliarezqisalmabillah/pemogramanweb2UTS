@@ -30,7 +30,7 @@ Berdasarkan pengujian sebanyak 5 kali, didapatkan rata-rata hasil sebagai beriku
 ---
 
 ## 🔗 Publikasi & Bukti
-* [cite_start]**Link Artikel (Medium/Blog):** [MASUKKAN_LINK_ARTIKEL_KAMU_DISINI] [cite: 33]
+* [cite_start]**Link Artikel (Medium/Blog):**https://medium.com/@billahsalma50/menguji-batas-perfoma-browser-eksperimen-komputasi-berat-menggunakan-webassembly-vs-javascript-8fbec7f89b3b[cite: 33]
 * [cite_start]**Hasil Pengecekan Plagiasi:** Terlampir di folder `proof/` (Skor: < 30%). [cite: 13, 14, 40]
 
 ---
